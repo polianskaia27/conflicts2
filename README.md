@@ -1,1 +1,1 @@
-# conflicts2
+# here we will resolve the conflicts
